@@ -1,6 +1,6 @@
 ## Landing Page
 
-I developed a web landing page utilizing HTML5 and CSS
+I developed a web landing page utilizing HTML5 and CSS5
 
 Other tool used:
 <ul>

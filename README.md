@@ -1,6 +1,6 @@
 ## Landing Page
 
-I developed a web landing page utilizing HTML5 and CSS5
+I developed a web landing page utilizing HTML5 and CSS3
 <img src = '/Images/Program.png'>
 
 Other tool used:
